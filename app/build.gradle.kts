@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.build_a_grid"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.build_a_grid"
